@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  ret2libc2024:
+    build: ./
+    volumes:
+      - ./share:/home/chal:ro
+      - ./xinetd:/etc/xinetd.d/chal:ro
+    ports:
+      - "10013:48763"

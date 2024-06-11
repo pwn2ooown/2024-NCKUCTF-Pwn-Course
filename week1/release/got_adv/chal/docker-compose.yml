@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  got_adv:
+    build: ./
+    volumes:
+      - ./share:/home/chal:ro
+      - ./xinetd:/etc/xinetd.d/chal:ro
+    ports:
+      - "10006:48763"

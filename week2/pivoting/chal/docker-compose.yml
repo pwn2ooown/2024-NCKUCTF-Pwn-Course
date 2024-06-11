@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  pivoting:
+    build: ./
+    volumes:
+      - ./share:/home/chal:ro
+      - ./xinetd:/etc/xinetd.d/chal:ro
+    ports:
+      - "10011:48763"
