@@ -4,10 +4,6 @@
 
 Free binary exploitation (pwn) course in mandarin for 2024 NCKUCTF Club.
 
-這是我第一次講授這門課程，所以投影片和上課的內容並不完美。我會在未來努力改進它們。
-
-This is my first time teaching this course, so the slides and the content are not perfect. I will work on improving them in the future.
-
 Online labs is available at our [CTFd](https://class.nckuctf.org/)
 
 ## Environment
@@ -58,4 +54,4 @@ Ubuntu 22.04 LTS with glibc version 2.35.
 
 ## License
 
-The content of this project itself is licensed under the [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/).
+The content of this repository is licensed under the [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/).
