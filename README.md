@@ -2,17 +2,17 @@
 
 免費軟體程式安全課程 @ 2024 NCKUCTF Club 成大資安社社課
 
-Free binary exploitation (pwn) course in mandarin for 2024 NCKUCTF Club.
+Free binary exploitation (pwn) course for 2024 NCKUCTF Club.
 
-Online labs is available at our [CTFd](https://class.nckuctf.org/)
+Online labs are available at our [CTFd](https://class.nckuctf.org/)
 
 ## Environment
 
-Ubuntu 22.04 LTS with glibc version 2.35.
+Ubuntu 22.04 LTS with glibc version 2.35. (No heap exploitation so that the glibc version doesn't affect that much I think)
 
 ## TOC
 
-`exploit scripts` folder contains the solution of labs.
+`exploit scripts` folder contains the solution for lab challenges.
 
 ### Week 1 - Binary Exploitation 101
 
