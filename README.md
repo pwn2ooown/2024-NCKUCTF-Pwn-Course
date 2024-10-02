@@ -1,6 +1,6 @@
 # 2024-NCKUCTF-Pwn-Course
 
-⭐⭐**If you find this repository helpful, please give us a star!**⭐⭐
+⭐⭐ **If you find this repository helpful, please give us a star!** ⭐⭐
 
 程式安全課程 @ 2024 NCKUCTF Club 成大資安社社課
 
